@@ -108,25 +108,44 @@ projectsData.forEach((project) => {
 
 // ! ---------------------------------------------------------------- skills section------------------------------------------------
 
+
+
+
+
+
+
+
 const skillsData = [
   {
-    name: "MS office suite ",
-    description: "(Outlook word,excel, PowerPoint)",
-  },
-  {
-    name: "Performed remote installations,upgrades, and repairs using.phone, online chat, and remotedesktop software",
+    name: "Project Management ",
     description: "",
   },
   {
-    name: "Data Recovery, Office systemmaintain",
-    description: "(Application or network issue)",
-  },
-  {
-    name: "Supporting VIP, users along withdirector level for technical issues related to windows",
+    name: "Public Relations",
     description: "",
   },
   {
-    name: "Good Knowledge in G suite Workplace.",
+    name: "Teamwork",
+    description: "",
+  },
+  {
+    name: "Time Management",
+    description: "",
+  },
+  {
+    name: "Leadership",
+    description: "",
+  },
+  {
+    name: "Effective Communication",
+    description: "",
+  },
+  {
+    name: "Critical Thinking",
+    description: "",
+  },
+  {
+    name: "Vendor management",
     description: "",
   },
 ];

@@ -52,7 +52,7 @@ const projectsData = [
   },
   {
     imgSrc: "https://static.businessworld.in/Motilal_Oswal_sept10_Tz8af7K.jpg",
-    projectName: "VIP SUPPORT ENGINEER: / JSW GROUP (SYSNET GLOBAL)",
+    projectName: "VIP SUPPORT ENGINEER: JSW GROUP (SYSNET GLOBAL)",
     projectDescription: "Delivered executive-level technical support for VIP users, ensuring system performance, resolving issues, and providing remote support, especially during the pandemic.",
   },
   {
